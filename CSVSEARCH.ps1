@@ -1,12 +1,12 @@
 ﻿<#
-Written to do bing points everyday
+Written to do a random thing everyday
 Sleep random times to not expect as automated robot
-random number of searches every day
-random sleep between searches
+Random number of searches every day
+Random sleep between searches
 Export to log file time slept and date ran
 
 Updated 1-5-2023
-Made this Expanable via the web So i can add as needed and never have to open this script again.
+Made this Expanable via the web, So I can add as needed and never have to open this script again.
 #>
 $file= "SearchHistory.txt"
 
