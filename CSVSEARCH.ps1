@@ -8,7 +8,7 @@ Export to log file time slept and date ran
 Updated 1-5-2023
 Made this Expanable via the web, So I can add as needed and never have to open this script again.
 #>
-$file= "SearchHistory.txt"
+$file= "C:\Scripts\SearchHistory.txt"
 
 #test mode Y = yes N = NO
 $testmode="y"
